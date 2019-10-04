@@ -21,7 +21,7 @@ def playGame(data1):
             print("You Won u tricky bastard, Word is: ", "".join(guess))
             return True
     print("U lost gg, word was: ", guess)
-    S
+
 word = ()
 while (True):
     print("=================================================")
